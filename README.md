@@ -1,8 +1,9 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6331f52b-8426-4a5a-ac7f-ac237eed6e07" alt="Profile Image" width="200" height="200" />
+  <img width="200" height="200" alt="Adsız tasarım (1)" src="https://github.com/user-attachments/assets/8344142a-8f88-4019-9366-ffbf0a5df120" />
 </p>
+
 
 
 
