@@ -1,6 +1,8 @@
 
 
-<img width="500" height="500" alt="Adsız tasarım" src="https://github.com/user-attachments/assets/6331f52b-8426-4a5a-ac7f-ac237eed6e07" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6331f52b-8426-4a5a-ac7f-ac237eed6e07" alt="Profile Image" width="200" height="200" />
+</p>
 
 
 
