@@ -1,12 +1,4 @@
 
-
-<p align="center">
-  <img width="200" height="200" alt="Adsız tasarım (1)" src="https://github.com/user-attachments/assets/8344142a-8f88-4019-9366-ffbf0a5df120" />
-</p>
-
-
-
-
 <h1 align="left">🎓 Developer in Training | Focused on Full-Stack & AI Technologies</h1>
 
 ###
