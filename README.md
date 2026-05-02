@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">🎓 Studied C, C++, C#, Java, and Python at university.<br>🌐 Currently learning full-stack development.<br>🤖 Planning to dive into artificial intelligence in the near future.<br>🚀 Always eager to learn and grow!</p>
+<p align="left">🎓 Studied C, C++, C#, Java, and Python at university.<br>🌐 Currently learning python programming.<br>🤖 Planning to dive into artificial intelligence in the near future.<br>🚀 Always eager to learn and grow!</p>
 
 ###
 
