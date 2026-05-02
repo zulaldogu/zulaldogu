@@ -1,5 +1,5 @@
 
-<h1 align="left">🎓 Developer in Training | Focused on Full-Stack & AI Technologies</h1>
+<h1 align="left">🎓 Computer Engineering Student | Aspiring Full-Stack & AI Developer </h1>
 
 ###
 
