@@ -1,5 +1,5 @@
 
-<h1 align="left">🎓 Computer Engineering Student | Aspiring Full-Stack & AI Developer </h1>
+<h1 align="left">🎓 Computer Engineering Student </h1>
 
 ###
 
